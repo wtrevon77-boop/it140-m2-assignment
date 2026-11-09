@@ -1,35 +1,34 @@
 # Assignment 2-3 Part B – IDE Features Reflection
 
 ## Introduction
+The first feature I enjoyed while using this the program were the color on the different inputs from editing the variable to giving it a value. 
+The next feature that was great was the auto fill on the brackets for different functions such as print.
+The final feature that stood out was the easy reference to fill in with already existing inputs.
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
-
-TODO: Replace with your introduction here.
 
 ## Feature 1 – TODO: Replace with name of your Feature1
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+The color coding feature will come in handy to help you understand what is going on with your code. The idea that words are different colors can help you understand which function is happening with your input. When you get deeper into writing more difficult scripts this will help keep your place and can make it easier to find errors in your code. 
 
-TODO: Replace with your Feature 1 paragraph here.
+
 
 ## Feature 2 – TODO: Replace with name of your Feature2
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
 
-TODO: Replace with your Feature 2 paragraph here.
-
+The feature about the brackets will help you remember to understand how to sort your different functions. This helps as there will be different times while coding 
+you will have multiple brackets involved. It can go towards help you remember which set your are suppose to place within a given set. 
 ## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The auto fill in on previous code entries will help towards efficiency as far as speed.
+You will not have to waste time fully typing out the variable. This can help with making sure you spell things properly in order to keep the accuracy. This will also go towards when you use 
+integers as well. Then as bigger entry happens you can have a list of entries to refer back to instead of needing to manually sift through in order to remember how to properly type out that
+specific variable.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
+These features ultimately will help with my efficiency and accuracy. I will be able to keep things a little more organized through the color codes and auto fill features.
+I can see how you can easily get confused by where your placement may be but with these visual ques it will help with organization. These small add ons help make the program feel
+more user friendly.
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Sense Education. (2026). Instant feedback report. https://its.sense.education
